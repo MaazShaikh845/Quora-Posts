@@ -1,0 +1,46 @@
+body {
+    padding: 2rem;
+}
+.Opost {
+    display: flex;
+    flex-wrap: wrap;
+}
+h1 {
+    color: maroon;
+    text-align: center;
+}
+
+.post {
+    background-color: lightblue;
+    height: 200px;
+    width: 250px;
+    border-radius: 15%;
+    border: 2px solid black;
+    margin: 1rem;
+    padding: 1rem;
+}
+.user {
+    font-style: italic;
+    text-align: center;
+}
+a {
+    line-height: 50px;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    margin-left: 1rem;
+    padding: 0.5rem;
+    border-radius: 20%;
+}
+.content {
+    margin: 1rem;
+}
+button {
+    text-align: center;
+    margin-left: 1rem;
+    height: 30px;
+    color: white;
+    background-color: black;
+    border-radius: 20%;
+
+}
